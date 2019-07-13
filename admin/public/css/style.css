@@ -1,0 +1,447 @@
+
+
+.form-left-to-w3l input[type="file"], .form-right-to-w3ls input[type="text"], .form-left-to-w3l input[type="email"], .form-control-w3l textarea, .form-add-to-w3ls input[type="text"] {
+    width: 100%;
+    color: #000;
+    outline: none;
+    font-size: 15px;
+    padding: .4em 1em;
+    border: 1px solid #fff;
+    margin: 0px 0px 29px;
+    -webkit-appearance: none;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.9);
+    letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    box-sizing: border-box;
+}
+.form-left-to-w3l input[type="file"], .form-right-to-w3ls input[type="file"], .form-left-to-w3l input[type="email"], .form-control-w3l textarea, .form-add-to-w3ls input[type="text"] {
+    width: 100%;
+    color: #000;
+    outline: none;
+    font-size: 15px;
+    padding: .4em 1em;
+    border: 1px solid #fff;
+    margin: 0px 0px 29px;
+    -webkit-appearance: none;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.9);
+    letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    box-sizing: border-box;
+}
+.form-left-to-w3l input[type="file"], .form-right-to-w3ls input[type="file"], .form-left-to-w3l input[type="email"], .form-control-w3l textarea, .form-add-to-w3ls input[type="file"] {
+    width: 100%;
+    color: #000;
+    outline: none;
+    font-size: 15px;
+    padding: .4em 1em;
+    border: 1px solid #fff;
+    margin: 0px 0px 29px;
+    -webkit-appearance: none;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.9);
+    letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    box-sizing: border-box;
+}
+
+.Donation-main-w3ls {
+    width: 33%;
+    margin: 0em auto;
+    padding: 53px 46px 60px;
+	background:rgba(197, 197, 197, 0.6) ;
+}
+h1.header-w3ls {
+    text-align: center;
+    text-transform: uppercase;
+    color:#ffffff;
+    text-shadow: 2px 3px rgba(0, 0, 0, 0.42);
+    letter-spacing: 8px;
+            }
+			
+.form-left-to-w3l input[type="text"],.form-right-to-w3ls input[type="text"],.form-left-to-w3l input[type="email"]
+,.form-control-w3l textarea,.form-add-to-w3ls input[type="text"]{
+    width:98%;
+    color: #000;
+    outline: none;
+    font-size: 15px;
+    padding: .8em 1em;
+    border: 1px solid #fff;
+	margin: 0px 0px 29px;
+    -webkit-appearance: none;
+    display: inline-block;
+    background:rgba(255, 255, 255, 0.9);
+	letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+	  box-sizing: border-box;
+
+}
+			.main {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+.form-right-to-w3ls, .form-left-to-w3l {
+    flex-basis: 48%;
+    -webkit-flex-basis: 48%;
+}
+.add input[type="text"]{width:100%}
+.form-right-to-w3ls input[type="text"]{
+   padding-right: 0px; 
+}
+ select.form-control {
+    outline: none;
+    font-size: 15px;
+    padding:0.8em 1em;
+    width: 100%;
+	height:43px;
+   
+	border-radius:0;
+    background:rgba(255, 255, 255, 0.9);
+    color: #000;
+	letter-spacing:2px;
+    
+	box-sizing: border-box;
+	transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+}
+option{background:#fff;}
+textarea{
+    height: 134px;
+    padding: 1em;
+	overflow: hidden;
+	resize:none;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+     color: #000;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    color: #000;
+}
+:-ms-input-placeholder { /* IE 10+ */
+     color: #000;
+}
+:-moz-placeholder { /* Firefox 18- */
+    color: #000;
+}
+
+}
+@media(max-width:1680px){
+h1.header-w3ls {
+    font-size: 60px;
+    padding: 45px 0px 28px;
+}	
+.Donation-main-w3ls {
+    width: 37%;
+}
+}
+@media(max-width:1600px){
+	h1.header-w3ls {
+    font-size: 57px;
+    padding: 31px 0px 25px;
+	}
+}
+@media(max-width:1440px){
+	select.form-control {
+    height: 36px;
+	    padding: 0.5em 1em;
+	}
+	.form-left-to-w3l input[type="text"],
+	.form-right-to-w3ls input[type="text"], 
+	.form-left-to-w3l input[type="email"], 
+	.form-control-w3l textarea, 
+	.form-add-to-w3ls input[type="text"] {
+    padding: .5em 1em;
+	}
+	.Donation-main-w3ls {
+    width: 40%;
+}
+}
+@media(max-width:1366px){
+	
+
+@media(max-width:1280px){
+	.Donation-main-w3ls {
+    width: 46%;
+}
+}
+@media(max-width:1080px){
+	.Donation-main-w3ls {
+    width: 53%;
+}
+}
+@media(max-width:1050px){
+		.Donation-main-w3ls {
+    width: 57%;
+}
+}
+@media(max-width:1024px){
+.Donation-main-w3ls {
+    width: 80%;
+}
+h1.header-w3ls {
+    font-size: 55px;
+}
+}
+@media(max-width:991px){
+textarea {
+    height: 127px;
+}
+h1.header-w3ls {
+    padding: 31px 0px 21px;
+}	
+}
+@media(max-width:900px){
+	h1.header-w3ls {
+    font-size: 53px;
+}
+.Donation-main-w3ls {
+    width: 64%;
+    padding: 47px 43px 50px;
+}
+}
+@media(max-width:800px){
+	h1.header-w3ls {
+    letter-spacing: 4px;
+		font-size: 50px;
+}
+button[type=submit] {
+    font-size: 17px;
+}
+select.form-control,
+.form-left-to-w3l input[type="text"],
+ .form-right-to-w3ls input[type="text"],
+ .form-left-to-w3l input[type="email"], 
+ .form-control-w3l textarea,
+ .form-add-to-w3ls input[type="text"] {
+    font-size: 14px;
+    margin: 0px 0px 27px;
+}
+.copy p {
+    font-size: 15px;
+
+}
+}
+@media(max-width:768px){
+	h1.header-w3ls {
+ padding: 39px 0px 25px;
+}
+select.form-control,
+.form-left-to-w3l input[type="text"],
+ .form-right-to-w3ls input[type="text"],
+ .form-left-to-w3l input[type="email"],
+ .form-control-w3l textarea,
+ .form-add-to-w3ls input[type="text"] {
+    margin: 0px 0px 35px;
+ }
+}
+@media(max-width:767px){
+	select.form-control, .form-left-to-w3l input[type="text"], .form-right-to-w3ls input[type="text"], .form-left-to-w3l input[type="email"], .form-control-w3l textarea, .form-add-to-w3ls input[type="text"] {
+    margin: 0px 0px 26px;
+}
+h1.header-w3ls {
+    padding: 28px 0px 23px;
+	 font-size: 47px;
+}
+.copy p {
+    letter-spacing: 2px;
+}
+}
+@media(max-width:736px){
+.Donation-main-w3ls {
+    width: 68%;
+    padding: 44px 43px 52px;
+}
+h1.header-w3ls {
+    font-size: 45px;
+}	
+}
+@media(max-width:667px){
+	h1.header-w3ls {
+    letter-spacing: 2px;
+	font-size: 43px;
+	}
+	.copy p {
+    letter-spacing: 1px;
+}
+.Donation-main-w3ls {
+    width: 74%;
+    padding: 44px 37px 52px;
+}
+
+}
+@media(max-width:640px){
+.Donation-main-w3ls {
+    padding: 44px 37px 47px;
+}	
+}
+@media(max-width:600px){
+h1.header-w3ls {
+    font-size: 41px;
+}	
+textarea {
+    height: 122px;
+}
+}
+@media(max-width:568px){
+	h1.header-w3ls {
+    font-size: 38px;
+}
+.copy p {
+    padding: 0px 21px;
+    line-height: 28px;
+}
+}
+@media(max-width:480px){
+	.Donation-main-w3ls {
+    padding: 40px 33px 38px;
+}
+h1.header-w3ls {
+    font-size: 35px;
+    line-height: 45px;
+	    padding: 28px 0px 17px;
+}
+.main {flex-direction: column;
+     -webkit-flex-direction: column;
+}
+}
+@media(max-width:440px){
+	.copy {
+    padding: 25px 0px;
+}
+textarea {
+    height: 118px;
+}
+}
+@media(max-width:414px){
+	button[type=submit] {
+    font-size: 16px;
+}
+}
+@media(max-width:384px){
+	h1.header-w3ls {
+    letter-spacing: 1px;
+	}
+	textarea {
+    height: 113px;
+}
+@media(max-width:375px){
+h1.header-w3ls {
+    font-size: 33px;
+}
+
+@media(max-width:320px){
+	.Donation-main-w3ls {
+    padding: 39px 29px 38px;
+}
+select.form-control, .form-left-to-w3l input[type="text"], .form-right-to-w3ls input[type="text"], .form-left-to-w3l input[type="email"], .form-control-w3l textarea, .form-add-to-w3ls input[type="text"] {
+    margin: 0px 0px 24px;
+}
+}
+
+@media only screen and (max-width: 800px) {
+    
+    /* Force table to not be like tables anymore */
+    #no-more-tables table, 
+    #no-more-tables thead, 
+    #no-more-tables tbody, 
+    #no-more-tables th, 
+    #no-more-tables td, 
+    #no-more-tables tr { 
+        display: block; 
+    }
+ 
+    /* Hide table headers (but not display: none;, for accessibility) */
+    #no-more-tables thead tr { 
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+ 
+    #no-more-tables tr { border: 1px solid #ccc; }
+ 
+    #no-more-tables td { 
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee; 
+        position: relative;
+        padding-left: 50%; 
+        white-space: normal;
+        text-align:left;
+    }
+ 
+    #no-more-tables td:before { 
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%; 
+        padding-right: 10px; 
+        white-space: nowrap;
+        text-align:left;
+        font-weight: bold;
+    }
+
+ body
+{
+  margin:0 auto;
+  padding:0;
+  text-align:center;
+  height:2000px;
+  background-color:silver;
+}
+#wrapper
+{
+  width:995px;
+  padding:0px;
+  margin:0px auto;
+  font-family:helvetica;
+  text-align:center;
+}
+input[type="text"]
+{
+  width:200px;
+  height:35px;
+  margin-right:2px;
+  border-radius:3px;
+  border:1px solid green;
+  padding:5px;
+}
+input[type="button"]
+{
+  background:none;
+  color:white;
+  border:none;
+  width:110px;
+  height:35px;
+  border-radius:3px;
+  background-color:green;
+  font-size:16px;
+}
+ 
+    /*
+    Label the data
+    */
+    #no-more-tables td:before { content: attr(data-title); }
